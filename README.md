@@ -102,3 +102,7 @@ function reverseString(str) {
 </td>
   </tr>
 </table>
+
+### 🐍 Contribution Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/mardon1dev/mardon1dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/mardon1dev/mardon1dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
