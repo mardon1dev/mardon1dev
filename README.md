@@ -26,7 +26,14 @@ I am a motivated and detail-oriented Frontend Developer passionate about learnin
 **Torgeum Software LLC**  
 Frontend Developer — *May 2025 - Present*
 
-### 🎓 Education
+### 💼 Education
+**Tashkent State University of Economics**  
+Bachelor of Management (Tourism business administration) — *September 2021 - May 2025*
+
+**Na'jot Ta'lim**  
+Frontend (React.js) course — *May 2024 - December 2024*
+
+### 🎓 Certification
 - [Frontend Development Bootcamp](https://www.freecodecamp.org/certification/mardonbek/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mardonbek/javascript-algorithms-and-data-structures-v8)
 
@@ -37,8 +44,8 @@ function reverseString(str) {
 }
 ```
 
-### 🌍 English Language
-<table width="100%">
+### 🌍 Language
+<table>
   <thead>
     <th>Language</th>
     <th>Level</th>
