@@ -104,4 +104,4 @@ function reverseString(str) {
 </table>
 
 ### 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/mardon1dev/mardon1dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/mardon1dev/mardon1dev/blob/output/github-snake-dark.svg)
