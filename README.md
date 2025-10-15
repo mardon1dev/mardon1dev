@@ -10,6 +10,7 @@
 
 📞 +99899 723-54-30  
 💼 [LinkedIn](https://www.linkedin.com/in/mardonbek-dusbekov)
+[Portfolio](https://mardon1dev.github.io/portfolio/)
 
 ---
 
