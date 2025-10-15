@@ -45,30 +45,12 @@ function reverseString(str) {
 ```
 
 ### 🌍 Language
-<table>
-  <thead>
-    <th>Language</th>
-    <th>Level</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Uzbek</td>
-      <td>Native</td>
-    </tr>
-    <tr>
-      <td>English</td>
-      <td>B2+</td>
-    </tr>    
-    <tr>
-      <td>Russian</td>
-      <td>A2</td>
-    </tr>    
-    <tr>
-      <td>German</td>
-      <td>A1</td>
-    </tr>
-  </tbody>
-</table>
+| Language | Level |
+|-----------|--------|
+| Uzbek     | Native |
+| English   | B2+    |
+| Russian   | A2     |
+| German    | A1+    |
 
 ### 🌐 Socials
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/alwaysbe1.bsky.social)  
