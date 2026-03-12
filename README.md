@@ -25,7 +25,7 @@ I am a motivated and detail-oriented Frontend Developer passionate about learnin
 
 ### 💼 Work Experience
 **Torgeum Software LLC**  
-Frontend Developer — *May 2025 - Present*
+Frontend Developer — *May 2025 - December 2025*
 
 ### 💼 Education
 **Tashkent State University of Economics**  
